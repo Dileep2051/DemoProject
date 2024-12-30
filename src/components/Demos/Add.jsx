@@ -2,7 +2,7 @@ import React from "react";
 import { useSelector } from "react-redux";
 
 
-function Info(){
+function Information(){
     let state = useSelector((data)=>{
         return data;
        })
@@ -20,4 +20,4 @@ function Info(){
     )
 };
 
-export default Info; 
+export default Information; 
