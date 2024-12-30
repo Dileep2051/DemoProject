@@ -1,0 +1,16 @@
+.counter{
+    height: 200px;
+    background-color: aquamarine;
+    width: 50%;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 25%;
+    padding: 10px;
+    box-shadow: 0 0 10px black;
+    border-radius: 2%;
+    
+}
+
+h2{
+    margin-top: 50px;
+}

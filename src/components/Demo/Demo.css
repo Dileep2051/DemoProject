@@ -1,0 +1,22 @@
+.personProfileLightTheme{
+    padding: 30px;
+    width: 100%;
+    background-color: white;
+    color: black;
+}
+
+.personProfileDarkTheme{
+    padding: 30px;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.democontainer{
+    display: flex;
+    width: 85%;
+    height: 450px;
+    box-shadow: 0 0 10px black;
+    padding: 10px;
+    margin: 10px auto;
+}

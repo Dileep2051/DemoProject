@@ -1,0 +1,31 @@
+
+
+h1{
+    color: white;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.title{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+a{
+    color: white;
+    margin: 30px;
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

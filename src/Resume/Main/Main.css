@@ -1,0 +1,47 @@
+.mainContainer{
+    
+    margin-top: 70px;
+}
+
+.section1{
+    display: flex;
+    
+}
+
+.section2{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+Image{
+    justify-content: space-evenly;
+}
+
+.imageContainer{
+    width: 40%;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.detailsContainer{
+    width: 60%;
+    margin: 50px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+}
+
+img{
+    border-radius: 50%;
+    text-align: center;
+    
+}
+
+h4{
+    
+    text-align: center;
+}
+
+
